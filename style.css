@@ -1,0 +1,16 @@
+.div1{
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.div2{
+    background-color: rgb(154, 211, 116);
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+}
+div{
+    margin: 20px;
+}
